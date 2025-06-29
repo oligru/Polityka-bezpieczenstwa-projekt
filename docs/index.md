@@ -17,6 +17,7 @@ Dokumentacja obejmuje:
 
 - Oliwia Gruchała  
 - Arkadiusz Kozak
-
+- Ania Nowak
+- Ania Kowalska
 ---
 
