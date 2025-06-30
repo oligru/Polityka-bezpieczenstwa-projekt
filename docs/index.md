@@ -15,7 +15,7 @@ Dokumentacja obejmuje:
 
 ## Autorzy
 
-- Oliwia Gruchała  
+- Oliwia Gruchała 
 - Arkadiusz Kozak
 
 ---
