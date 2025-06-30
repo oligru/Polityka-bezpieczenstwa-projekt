@@ -44,3 +44,23 @@ Każdy pracownik mający dostęp do danych osobowych:
 - Ma obowiązek zgłaszania incydentów naruszenia ochrony danych
 
 ---
+
+## Prawa pacjenta (osoby, której dane dotyczą)
+
+Pacjent ma prawo do:
+
+- Dostępu do swoich danych
+- Sprostowania danych nieprawidłowych lub nieaktualnych
+- Ograniczenia przetwarzania w uzasadnionych przypadkach
+- Wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (PUODO)
+
+---
+
+## Bezpieczeństwo danych w systemie
+
+System informatyczny wspiera ochronę danych poprzez:
+
+- Szyfrowanie połączeń (SSL/TLS)
+- Rejestrowanie logów dostępu
+- Zarządzanie dostępem opartym na rolach
+- Regularne kopie zapasowe i aktualizacje systemu
