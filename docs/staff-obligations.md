@@ -21,3 +21,31 @@ Celem niniejszej sekcji jest określenie obowiązków pracowników przychodni le
 - Po zakończeniu pracy należy **wylogować się z systemu** lub zablokować stanowisko.
 
 ---
+
+## 3. Zasady korzystania z systemu
+
+- Dozwolone jest korzystanie wyłącznie z **autoryzowanych urządzeń i
+aplikacji**.
+- Zabrania się instalowania niezatwierdzonego oprogramowania.
+- Nie wolno wykorzystywać systemów przychodni do celów prywatnych.
+
+---
+
+## 4. Szkolenia i świadomość
+
+- Każdy pracownik uczestniczy w **szkoleniach z zakresu ochrony danych
+osobowych** i bezpieczeństwa informacji.
+- Pracownicy powinni znać procedury dotyczące reagowania na incydenty
+bezpieczeństwa.
+- W przypadku podejrzenia naruszenia – obowiązkiem pracownika jest
+**niezwłoczne zgłoszenie tego faktu** przełożonemu lub do wyznaczonego
+inspektora ochrony danych.
+
+---
+
+## 5. Odpowiedzialność
+
+- Naruszenie zasad opisanych w polityce bezpieczeństwa może skutkować
+**konsekwencjami dyscyplinarnymi**, włącznie z rozwiązaniem umowy.
+- Działania sprzeczne z polityką mogą skutkować także
+**odpowiedzialnością cywilną lub karną**.
