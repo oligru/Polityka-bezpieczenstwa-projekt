@@ -1,1 +1,11 @@
 site_name: Polityka bezpieczeństwa systemu informatycznego w przychodni lekarskiej
+theme:
+  name: material
+
+nav:
+  - Strona główna: index.md
+  - Zarządzanie dostępem i hasłami: access-control.md
+  - Kopie zapasowe i odzyskiwanie danych: backup.md
+  - Ochrona danych osobowych i zgodność z RODO: data-protection.md
+  - Reagowanie na incydenty bezpieczeństwa: incident-response.md
+  - Obowiązki pracowników: staff-obligations.md
