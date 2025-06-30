@@ -38,3 +38,20 @@ zewnętrznym)
 - Dostęp do kopii mają wyłącznie administratorzy systemu
 
 ---
+
+## Testowanie przywracania danych
+
+- Co najmniej raz na kwartał wykonywany jest **test przywracania danych** z kopii zapasowych
+- Wyniki testu są dokumentowane w raporcie bezpieczeństwa
+- W przypadku wykrycia błędów procedura kopii jest aktualizowana
+
+---
+
+## Procedura awaryjna
+
+W przypadku awarii systemu lub utraty danych:
+
+1. Zgłoszenie incydentu do administratora systemu
+2. Weryfikacja dostępnych kopii zapasowych
+3. Przywrócenie danych z ostatniej poprawnej kopii
+4. Raportowanie incydentu zgodnie z procedurą reagowania na incydenty
