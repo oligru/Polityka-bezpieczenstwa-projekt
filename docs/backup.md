@@ -16,3 +16,25 @@ Kopie zapasowe obejmują:
 - Konfiguracje systemowe (ustawienia aplikacji, harmonogramy)
 
 ---
+
+## Harmonogram tworzenia kopii zapasowych
+
+- **Kopie dzienne (inkrementalne)** – wykonywane codziennie w
+godzinach nocnych
+- **Kopie pełne** – raz w tygodniu (np. w sobotę o 02:00)
+- **Przechowywanie**:
+- Kopie dzienne: przechowywane przez minimum 7 dni
+- Kopie tygodniowe: przechowywane przez minimum 1 miesiąc
+
+---
+
+## Miejsce przechowywania kopii
+
+- Kopie zapasowe są przechowywane:
+   - Lokalnie (na serwerze kopii zapasowych)
+   - Zdalnie (w zaszyfrowanym repozytorium w chmurze lub na nośniku
+zewnętrznym)
+- Kopie są szyfrowane algorytmem AES-256
+- Dostęp do kopii mają wyłącznie administratorzy systemu
+
+---
