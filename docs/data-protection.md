@@ -21,3 +21,26 @@ W systemie informatycznym przychodni przetwarzane są m.in.:
 - Historia wizyt i wyniki badań
 
 ---
+
+## Zasady przetwarzania danych
+
+Dane osobowe są przetwarzane zgodnie z następującymi zasadami:
+
+1. **Zgodność z prawem** – dane są przetwarzane tylko w celach związanych z opieką zdrowotną.
+2. **Minimalizacja danych** – przetwarzane są wyłącznie dane niezbędne do realizacji świadczeń.
+3. **Ograniczenie przechowywania** – dane są przechowywane nie dłużej niż jest to wymagane przepisami.
+4. **Integralność i poufność** – stosowane są środki techniczne i organizacyjne chroniące dane.
+5. **Rozliczalność** – przychodnia jest w stanie wykazać zgodność z RODO na każdym etapie przetwarzania.
+
+---
+
+## Obowiązki personelu
+
+Każdy pracownik mający dostęp do danych osobowych:
+
+- Przechodzi szkolenie z zakresu ochrony danych
+- Podpisuje oświadczenie o zachowaniu poufności
+- Ma przydzielone indywidualne konto w systemie
+- Ma obowiązek zgłaszania incydentów naruszenia ochrony danych
+
+---
